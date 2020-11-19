@@ -19,10 +19,10 @@ CFG_MDB_MARIADB_MODOBOA_DBS_PREFIX="mdb_"
 # Modoboa Configuration
 
 # !! only in CFG_MDB_TIMEZONE are '/'s allowed
-CFG_MDB_TIMEZONE="Europe/Berlin"
+CFG_MDB_TIMEZONE="America/Curacao"
 
 # Language code (e.g. 'de' or 'en')
-CFG_MDB_LANGUAGE="de"
+CFG_MDB_LANGUAGE="en"
 
 # CalDAV + CardDAV Server Hostname
 CFG_MDB_DAVHOSTNAME="dav"
@@ -31,7 +31,7 @@ CFG_MDB_MAILHOSTNAME="mail"
 CFG_MDB_MAILDOMAIN="localdomain.local"
 
 # may be "true" or "false":
-CFG_MDB_MODOBOA_CSRF_PROTECTION_ENABLE=false
+CFG_MDB_MODOBOA_CSRF_PROTECTION_ENABLE=true
 
 # may be "true" or "false":
 CFG_MDB_CLAMAV_CONF_ENABLE=true
