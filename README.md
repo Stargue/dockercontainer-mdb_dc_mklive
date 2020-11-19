@@ -40,7 +40,7 @@ The **mdb-live** Docker Image provides a fully featured dockerized Mailserver in
 
 ## <a name="installation"></a>Installation
 1. Clone this repository to your harddrive, e.g. by running  
-``$ git clone https://github.com/tsitle/dockercontainer-mdb_dc_mklive.git``  
+``$ git clone https://github.com/Stargue/dockercontainer-mdb_dc_mklive.git``  
 2. Change the working directory, e.g. by running  
 ``$ cd dockercontainer-mdb_dc_mklive``  
 3. Copy the file _config-SAMPLE.sh_ to _config.sh_  
